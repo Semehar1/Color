@@ -1,0 +1,14 @@
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\bin\Debug\netstandard2.0\colorfulloginpage.deps.json
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\bin\Debug\netstandard2.0\colorfulloginpage.dll
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\bin\Debug\netstandard2.0\ref\colorfulloginpage.dll
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\bin\Debug\netstandard2.0\colorfulloginpage.pdb
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\colorfulloginpage.csprojAssemblyReference.cache
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\Loginpage.xaml.g.cs
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\colorfulloginpage.AssemblyInfoInputs.cache
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\colorfulloginpage.AssemblyInfo.cs
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\colorfulloginpage.dll
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\ref\colorfulloginpage.dll
+C:\Users\Hello\source\repos\colorfulloginpage\colorfulloginpage\colorfulloginpage\obj\Debug\netstandard2.0\colorfulloginpage.pdb
